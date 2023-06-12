@@ -18,10 +18,6 @@ Welcome to my GitHub profile. I'm passionate about programming and constantly se
 
 Here's a list of some programming languages and tools I use:
 
-## Languages and Tools
-
-Here's a list of some programming languages and tools I use:
-
 | | | | |
 |:---:|:---:|:---:|:---:|
 | <img src="./assets/java.png" width="30" height="30"> | <img src="./assets/html.png" width="30" height="30"> | <img src="./assets/css.png" width="30" height="30"> | <img src="./assets/javascript.png" width="30" height="30"> |
