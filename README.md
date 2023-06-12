@@ -27,9 +27,9 @@ Here's a list of some programming languages and tools I use:
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dennis290699&show_icons=true)](https://github.com/Dennis290699)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis290699&langs_count=6&layout=compact)
+| <div align="center">GitHub Statistics</div> | <div align="center">Top Languages</div> |
+|---|---|
+| <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dennis290699&show_icons=true"></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis290699&langs_count=6&layout=compact"></div> |
 
 ## Featured Projects
 
