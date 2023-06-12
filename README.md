@@ -20,13 +20,14 @@ Here's a list of some programming languages and tools I use:
 
 ## Languages and Tools
 
+Here's a list of some programming languages and tools I use:
+
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/java.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/html.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/css.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/javascript.png" width="30" height="30"></div> |
-| <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/python.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/r.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/matlab.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/VS.png" width="30" height="30"></div> |
-| <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/eclipse.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/github.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/git.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/markdown.png" width="30" height="30"></div> |
-| <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/nodejs.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/react.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/vitejspng.png" width="30" height="30"></div> | <div style="display: inline-block; background-color: #fff; padding: 5px; border-radius: 5px; text-align: center;"><img src="./assets/xampp.png" width="30" height="30"></div> |
-
+| <img src="./assets/java.png" width="30" height="30"> | <img src="./assets/html.png" width="30" height="30"> | <img src="./assets/css.png" width="30" height="30"> | <img src="./assets/javascript.png" width="30" height="30"> |
+| <img src="./assets/python.png" width="30" height="30"> | <img src="./assets/r.png" width="30" height="30"> | <img src="./assets/matlab.png" width="30" height="30"> | <img src="./assets/VS.png" width="30" height="30"> |
+| <img src="./assets/eclipse.png" width="30" height="30"> | <img src="./assets/github.png" width="30" height="30"> | <img src="./assets/git.png" width="30" height="30"> | <img src="./assets/markdown.png" width="30" height="30"> |
+| <img src="./assets/nodejs.png" width="30" height="30"> | <img src="./assets/react.png" width="30" height="30"> | <img src="./assets/sql.png" width="30" height="30"> | <img src="./assets/xampp.png" width="30" height="30"> |
 
 ## GitHub Stats
 
