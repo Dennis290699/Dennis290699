@@ -1,4 +1,5 @@
 # Hello! I'm Dennis290699
+![Profile Views](https://komarev.com/ghpvc/?username=Dennis290699)
 
 <img src="https://github.com/Dennis290699.png" align="right" width="300" height="300" style="border-radius: 50%;">
 
